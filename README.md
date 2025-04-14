@@ -7,7 +7,7 @@
 1. Kafka with Zookeeper
 2. Kafka with KRAFT
 
-![Screenshot 2024-08-28 104141](https://github.com/user-attachments/assets/326efc21-3b53-4dac-8f25-58beaf0c16e8)
+![Screenshot](images/kafka%20course%20by%20conduktor.jpg)
 
 
 
